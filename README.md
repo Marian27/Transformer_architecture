@@ -1,2 +1,1 @@
-# Demo-2
-
+# Jupyter notebook that reproduces the paper introducing the transformer architecture.
